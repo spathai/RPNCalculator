@@ -1,0 +1,10 @@
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\Operation.dll.config
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\Operation.dll
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\Operation.pdb
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\Newtonsoft.Json.dll
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\nunit.framework.dll
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\Newtonsoft.Json.xml
+C:\Test Projects\SampleRPNCalculator\Operation\bin\Debug\nunit.framework.xml
+C:\Test Projects\SampleRPNCalculator\Operation\obj\Debug\Operation.dll
+C:\Test Projects\SampleRPNCalculator\Operation\obj\Debug\Operation.pdb
